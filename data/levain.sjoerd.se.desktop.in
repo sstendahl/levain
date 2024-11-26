@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=levain
+Exec=levain
+Icon=levain.sjoerd.se
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
